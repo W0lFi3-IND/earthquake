@@ -1,5 +1,5 @@
 # earthquake
 
-An Example to JsonParsing and List Widget in flutter using an Earthquake infromation gathering App
-
+An Example to show JsonParsing and ListWidget in flutter using an Earthquake infromation gathering App
+![Image description](link-to-image)
 
